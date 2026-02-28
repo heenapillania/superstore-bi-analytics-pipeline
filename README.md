@@ -115,13 +115,13 @@ superstore_project/
 ## 📸 Dashboard Preview
 
 ### 🔹 Power BI – Overview
-![Power BI Overview](assets/powerbi_overview.png)
+![Power BI Overview](Superstore_Project/assets/powerbi_overview.png)
 
 ### 🔹 Power BI – Discount & Regional Efficiency
-![Power BI Discount Analysis](assets/powerbi_discount.png)
+![Power BI Discount Analysis](Superstore_Project/assets/powerbi_discount.png)
 
 ### 🔹 Excel Executive Dashboard
-![Excel Dashboard](assets/excel_dashboard.png)
+![Excel Dashboard](Superstore_Project/assets/excel_dashboard.png)
 
 --- 
 
